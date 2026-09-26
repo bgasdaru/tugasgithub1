@@ -1,0 +1,12 @@
+.banner {
+    background: url("https://imgx.sonora.id/crop/0x0:0x0/700x465/photo/2021/06/26/3d-stablejpg-20210626062150.jpg")
+     no-repeat center center;
+     background-size: cover;
+     padding-top: 20%;
+     padding-bottom: 20%;
+     color:black
+}
+
+.crop-img{
+    object-fit: cover;
+}
